@@ -267,7 +267,14 @@ nav .fa-solid{
     background-color:#073150;
 }
 
-.text p{
+.text a {
+    margin: auto;
+    display: block;
+    text-align: center;
+    padding-top: 20px;
+    color:rgb(255, 255, 255);
+}
+.text p {
     margin: auto;
     text-align: center;
     padding-top: 20px;
